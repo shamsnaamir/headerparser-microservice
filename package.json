@@ -1,0 +1,23 @@
+{
+	"name": "request_header",
+	"version": "0.0.1",
+	"description": "API project by Amirreza Shams",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^5.0.0-alpha.2",
+		"cors": "^2.8.1",
+		"dotenv": "^8.2.0"
+	},
+	"repository": {
+		"type": "git"
+	},
+	"keywords": [
+		"node",
+		"hyperdev",
+		"express"
+	],
+	"license": "MIT"
+}
